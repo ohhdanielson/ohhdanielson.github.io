@@ -12,9 +12,9 @@ To access these files please use the following links:
 
 https://raw.githubusercontent.com/ohhdanielson/ohhdanielson.github.io/master/model_testy.py
 
-https://raw.githubusercontent.com/ohhdanielson/ohhdanielson.github.io/blob/master/agentframework.py
+https://raw.githubusercontent.com/ohhdanielson/ohhdanielson.github.io/master/agentframework.py
 
-https://raw.githubusercontent.com/ohhdanielson/ohhdanielson.github.io/blob/master/IO_pract.txt
+https://raw.githubusercontent.com/ohhdanielson/ohhdanielson.github.io/master/IO_pract.txt
 
 ### Prerequisites
 
