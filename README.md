@@ -11,7 +11,9 @@ The following files contain the code required to run a simple agent-based model 
 To access these files please use the following links:
 
 https://github.com/ohhdanielson/ohhdanielson.github.io/blob/master/model_testy.py
+
 https://github.com/ohhdanielson/ohhdanielson.github.io/blob/master/agentframework.py
+
 https://github.com/ohhdanielson/ohhdanielson.github.io/blob/master/IO_pract.txt
 
 ### Prerequisites
