@@ -1,40 +1,31 @@
 # Assessment 1 
 
-This python file contains a simple agent-based model (ABM) which has been builtup during the last 10 weeks. 
+The following files contain the code required to run a simple agent-based model (ABM) which has been builtup during the last 10 weeks. 
+
+* model.py
+* agentframework.py
+* IO_pract.txt
 
 ## Getting Started
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+To access these files please use the following links:
+
+https://github.com/ohhdanielson/ohhdanielson.github.io/blob/master/model_testy.py
+https://github.com/ohhdanielson/ohhdanielson.github.io/blob/master/agentframework.py
+https://github.com/ohhdanielson/ohhdanielson.github.io/blob/master/IO_pract.txt
 
 ### Prerequisites
 
-In order to use the python file it is recommended to use the following software:
+In order to use the python files it is recommended to use the following software:
 
 ```
 Spyder. Available from - https://pypi.python.org/pypi/spyder
 ```
 
-### Installing
-
-A step by step series of examples that tell you have to get a development env running
-
-Say what the step will be
-
-```
-Give the example
-```
-
-And repeat
-
-```
-until finished
-```
-
-End with an example of getting some data out of the system or using it for a little demo
 
 ## Running the tests
 
-Explain how to run the automated tests for this system
+To run the ABM load save the three files into the same directory and load into Spyder and run the model.py file (F5). 
 
 ### Break down into end to end tests
 
@@ -44,17 +35,6 @@ Explain what these tests test and why
 Give an example
 ```
 
-### And coding style tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-## Deployment
-
-Add additional notes about how to deploy this on a live system
 
 ## Built With
 
