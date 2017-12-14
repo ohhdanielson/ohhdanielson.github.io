@@ -7,6 +7,11 @@ title: Asssignment 1
 
 
 
-## **Link to repository** [ohhdanielson repository](https://github.com/ohhdanielson/ohhdanielson.github.io)
+## **Link to repository** - [ohhdanielson repository](https://github.com/ohhdanielson/ohhdanielson.github.io)
 
-https://github.com/ohhdanielson/ohhdanielson.github.io
+This repository contains the following files needed to run the ABM
+
+- model.py
+- agentframework.py
+- IO_pract.txt
+
