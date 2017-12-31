@@ -16,7 +16,7 @@ https://raw.githubusercontent.com/ohhdanielson/ohhdanielson.github.io/master/age
 
 https://raw.githubusercontent.com/ohhdanielson/ohhdanielson.github.io/master/IO_pract.txt
 
-### Prerequisites
+## Prerequisites
 
 In order to use the python files it is recommended to use the following software:
 
