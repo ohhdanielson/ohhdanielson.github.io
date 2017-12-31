@@ -24,36 +24,17 @@ In order to use the python files it is recommended to use the following software
 Spyder. Available from - https://pypi.python.org/pypi/spyder
 ```
 
+## Running the code
 
-## Running the tests
-
-To run the ABM load save the three files into the same directory and load into Spyder and run the model.py file (F5). 
-
-### Break down into end to end tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
+To run the ABM save the three files into the same directory and load the two python files into Spyder and run the model.py file (F5). 
 
 ## Built With
 
-* Spyder
-
-## Contributing
-
-Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
-
-## Versioning
-
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
+* Spyder 
 
 ## Authors
 
 * **Daniel Hardwick** - [ohhdanielson](https://github.com/ohhdanielson)
-
 
 ## License
 
