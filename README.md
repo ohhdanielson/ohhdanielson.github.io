@@ -31,8 +31,6 @@ To run the ABM save the three files into the same directory and load the two pyt
 ## Built With
 
 * Spyder 
-=======
-* Spyder
 
 ## Authors
 
