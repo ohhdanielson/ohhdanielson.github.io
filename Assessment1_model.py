@@ -5,7 +5,7 @@ Created on Tue Oct 31 22:11:17 2017
 @author: Danielson
 """
 #import statements
-import agentframework
+import agentframework_ABM
 import random
 import operator
 import matplotlib.pyplot
@@ -35,7 +35,7 @@ for row in dataset:
     
 #populate agent list
 for i in range (num_of_agents):
-    agents.append(agentframework.Agent(environment, agents))
+    agents.append(agentframework_ABM.Agent(environment, agents))
 
 carry_on = True
 
