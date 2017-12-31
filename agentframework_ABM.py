@@ -7,7 +7,7 @@ Created on Tue Nov 28 21:54:49 2017
 #import statements
 import random
 
-#creating class
+#creating Agent class
 class Agent():
     def __init__ (self, environment, agents):
         self.x= random.randint(0,99)
