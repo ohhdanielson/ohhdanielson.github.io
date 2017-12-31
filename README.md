@@ -19,11 +19,9 @@ https://raw.githubusercontent.com/ohhdanielson/ohhdanielson.github.io/master/ras
 ## Prerequisites
 
 In order to use the python files it is recommended to use the following software:
-
 ```
 Spyder. Available from - https://pypi.python.org/pypi/spyder
 ```
-
 ## Running the ABM
 
 To run the ABM save the three files into the same directory and load the two python files into Spyder and run the model.py file (F5). 
@@ -35,10 +33,6 @@ To run the ABM save the three files into the same directory and load the two pyt
 ## Authors
 
 * **Daniel Hardwick** - [ohhdanielson](https://github.com/ohhdanielson)
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
 
 ## Acknowledgments
 
