@@ -24,21 +24,15 @@ In order to use the python files it is recommended to use the following software
 Spyder. Available from - https://pypi.python.org/pypi/spyder
 ```
 
-<<<<<<< HEAD
-## Running the code
-=======
 ## Running the ABM
->>>>>>> f9f14776addab25828427a2b53ec1957732ab529
 
 To run the ABM save the three files into the same directory and load the two python files into Spyder and run the model.py file (F5). 
 
 ## Built With
 
-<<<<<<< HEAD
 * Spyder 
 =======
 * Spyder
->>>>>>> f9f14776addab25828427a2b53ec1957732ab529
 
 ## Authors
 
