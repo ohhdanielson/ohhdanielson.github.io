@@ -2,7 +2,7 @@
 title: Assessment 1
 ---
 # Daniel Hardwick
-My name is Daniel Hardwick and I work as a Geographical Information Systems Support Officer. I have worked with GIS for over 10 years and recently deicded to take my knowledge further by enrolling on the MSC in GIS program at the Leeds University. 
+My name is Daniel Hardwick and I work as a Geographical Information Systems Support Officer. I have worked with GIS for over 10 years and recently deicded to take my knowledge further by enrolling on the MSC in GIS programme at Leeds University. 
 My current Module is "Programming for Geographical Information Analysts: Core Skills" which focuses mainly on the programming language Python, and the practical work involved has resuled in me creating an Agent based model. 
 
 ## Assessment 1 - Agent based model (ABM)
