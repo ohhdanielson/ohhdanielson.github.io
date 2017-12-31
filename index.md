@@ -27,6 +27,6 @@ Finally an extra function of matplotlib was used to animate the model, showing w
 This repository contains the following files needed to run the ABM
 
 - [Assessment1_model.py](https://raw.githubusercontent.com/ohhdanielson/ohhdanielson.github.io/master/Assessment1_model.py)
-- agentframework_ABM.py - https://raw.githubusercontent.com/ohhdanielson/ohhdanielson.github.io/master/agentframework_ABM.py
-- raster.txt - https://raw.githubusercontent.com/ohhdanielson/ohhdanielson.github.io/master/raster.txt
+- [agentframework_ABM.py](https://raw.githubusercontent.com/ohhdanielson/ohhdanielson.github.io/master/agentframework_ABM.py)
+- [raster.txt](https://raw.githubusercontent.com/ohhdanielson/ohhdanielson.github.io/master/raster.txt)
 
