@@ -19,7 +19,7 @@ num_of_iterations = 100
 #create an empty list for agents
 agents = []
 
-#create an empty list for the environment
+#create an empty list for environment
 environment = [] 
 
 #open text file and read as a csv
