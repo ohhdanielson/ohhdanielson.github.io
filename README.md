@@ -2,9 +2,9 @@
 
 The following files contain the code required to run a simple agent-based model (ABM) which has been builtup during the last 10 weeks. 
 
-* model.py
-* agentframework.py
-* IO_pract.txt
+* Assessment1_model.py
+* agentframework_ABM.py
+* raster.txt
 
 ## Getting Started
 
@@ -12,9 +12,9 @@ To access these files please use the following links:
 
 https://raw.githubusercontent.com/ohhdanielson/ohhdanielson.github.io/master/Assessment1_model.py
 
-https://raw.githubusercontent.com/ohhdanielson/ohhdanielson.github.io/master/agentframework.py
+https://raw.githubusercontent.com/ohhdanielson/ohhdanielson.github.io/master/agentframework_model.py
 
-https://raw.githubusercontent.com/ohhdanielson/ohhdanielson.github.io/master/IO_pract.txt
+https://raw.githubusercontent.com/ohhdanielson/ohhdanielson.github.io/master/raster.txt
 
 ## Prerequisites
 
