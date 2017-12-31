@@ -1,9 +1,9 @@
 ---
-title: Asssignment 1
+title: Assessment 1
 ---
 
 
-# Assignment 1 - Agent based model (ABM)
+# Assessment 1 - Agent based model (ABM)
 
 
 
@@ -11,7 +11,7 @@ title: Asssignment 1
 
 This repository contains the following files needed to run the ABM
 
-- model.py
-- agentframework.py
-- IO_pract.txt
+- Assessment1_model.py
+- agentframework_ABM.py
+- raster.txt
 
