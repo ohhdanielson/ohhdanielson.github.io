@@ -24,7 +24,7 @@ Spyder. Available from - https://pypi.python.org/pypi/spyder
 ```
 ## Running the ABM
 
-To run the ABM save the three files into the same directory and load the two python files into Spyder and run the model.py file (F5). 
+To run the ABM save the three files into the same directory and load the two python files into Spyder and run them (F5). 
 
 ## Built With
 
